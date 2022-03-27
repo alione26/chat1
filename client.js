@@ -1,4 +1,4 @@
-const socket = io('http://localhost:3000');
+const socket = io('https://mighty-woodland-05816.herokuapp.com/');
 const messages = document.getElementById('messages');
 const msgForm = document.getElementById('msgForm');
 
